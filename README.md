@@ -1,3 +1,11 @@
+# Frontend Developer in person coding challenge
+
+I was challenged to create a mine sweeper user interface using a prebuilt api. This repo is the result of an hour and a half long session of coding and explaining my logic to the interviewees. The code is dirty and quick and was written while under the gun.
+
+# This readme was provided at the beginning of the interview
+
+https://gist.github.com/belden/95039bafa7560faf033d7b0ce31db5b6
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
